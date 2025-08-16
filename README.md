@@ -2,12 +2,7 @@
 
 ---
 
-<p align="center"> 
- 
-Full Stack Web Developers
-
-
-</p>
+<p align="center"> Full Stack Web Developers </p>
 
 ---
 
