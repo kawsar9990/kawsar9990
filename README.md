@@ -3,11 +3,13 @@
 ---
 
 <p align="center"> 💻 Full Stack Web Developer </p>
- 
+
+---
 
 <p align="center"> Frontend</p>
 
 ---
+
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
@@ -23,29 +25,29 @@
 
 
 
-## Backend
+<p align="center">Backend </p> 
 
 ---
 
 
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="60" height="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" height="60" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="80" height="80" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="80" height="80" />
 
 </p>
 
 
 
 
-##DevOps
+<p align="center"> DevOps </p>
 
 ---
 
 <p align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"  width="60" height="60"/>      
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="60" height="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="80" height="80" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"  width="80" height="80"/>      
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="80" height="80"/>
 
  
 </p>
@@ -53,13 +55,7 @@
 
 
 
-<p align="center">
-
-</p>
-
----
-
-## 🔗 Connect with me
+<p align="center">🔗 Connect with me </p> 
 
 ---
 
