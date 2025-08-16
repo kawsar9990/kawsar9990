@@ -2,7 +2,10 @@
 
 ---
 
-<p align="center"> 💻 Full Stack Web Developer </p>
+<p align="center"> 
+ 
+ ![Full Stack Web Developer Animation](https://i.imgur.com/yourgiflink.gif) 
+</p>
 
 ---
 
