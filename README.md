@@ -76,7 +76,9 @@
 ---
 
  <p align="center">
-![Kawsar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsar9990&show_icons=true&theme=dark&count_private=true)
+  
+  ![Kawsar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsar9990&show_icons=true&theme=dark)
+  
  </p> 
 
 
