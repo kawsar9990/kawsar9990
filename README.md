@@ -4,7 +4,7 @@
 
 ## 💻 Full Stack Web Developer
 
-### Frontend
+<p align="center"> Frontend</p>
 
 ---
 <p align="center">
