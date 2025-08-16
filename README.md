@@ -1,8 +1,9 @@
-## Hi Iam Kawsar 👋
+<p align="center"> Hi Iam Kawsar 👋 </p> 
 
----
 
-## 💻 Full Stack Web Developer
+
+<p align="center"> 💻 Full Stack Web Developer </p>
+ 
 
 <p align="center"> Frontend</p>
 
@@ -48,7 +49,7 @@
 
  
 </p>
----
+
 
 
 
