@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I am Kawsar 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi,%20I%20am%20Kawsar&fontSize=48&animation=fadeIn&fontAlignY=38" alt="Header" />
+</p>
 
 <h3 align="center">Full Stack Web Developer</h3>
 
