@@ -1,12 +1,10 @@
-<p align="center"> Hi Iam Kawsar 👋 </p> 
+<h1 align="center">Hi, I am Kawsar 👋</h1>
+
+<h3 align="center">Full Stack Web Developer</h3>
 
 ---
 
-<p align="center"> Full Stack Web Developers </p>
-
----
-
-<p align="center"> Frontend</p>
+<h3 align="center">Frontend</h3>
 
 ---
 
