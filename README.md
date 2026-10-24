@@ -1,14 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi,%20I%20am%20Kawsar&fontSize=48&animation=fadeIn&fontAlignY=38" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi,%20I%20am%20Kawsar%20Ahmed%20-%20Full%20Stack%20Developer%20%26%20Software%20Engineer&fontSize=26&animation=fadeIn&fontAlignY=38" alt="Header" />
 </p>
 
-<h3 align="center">Full Stack Web Developer</h3>
-
----
-
-<h3 align="center">Frontend</h3>
-
----
 
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
