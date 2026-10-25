@@ -9,25 +9,21 @@
 
   <img src="https://komarev.com/ghpvc/?username=kawsar9990&style=flat-square&color=007ec6" alt="Profile Views" />
   
- 
   <a href="https://github.com/kawsar9990?tab=followers">
-    <img src="https://img.shields.io/badge/GitHub-Followers-100000?style=flat-square&logo=github&labelColor=333333&color=007ec6" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/kawsar9990?style=flat-square&logo=github&label=Followers&color=007ec6" alt="Followers" />
   </a>
 
 
   <a href="https://github.com/kawsar9990?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Stars-100000?style=flat-square&logo=github&labelColor=333333&color=007ec6" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/kawsar9990?style=flat-square&logo=github&label=Stars&color=007ec6" alt="Stars" />
   </a>
 </p>
 
 <p align="center">
- 
   <a href="https://wakatime.com/@kawsar9990">
-    <img src="https://img.shields.io/badge/wakatime-coding-blue?style=flat-square&logo=wakatime&labelColor=333333&color=007ec6" alt="Wakatime" />
+    <img src="https://wakatime.com/badge/user/kawsar9990.svg" alt="Total time coded" />
   </a>
 </p>
-
-
 
 
 
