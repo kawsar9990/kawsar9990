@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@kawsar9990">
-    <img src="https://wakatime.com/badge/user/kawsar9990.svg" alt="Total time coded" />
+  <a href="https://wakatime.com/@0fde923d-171b-455e-834d-968aa05c3323">
+    <img src="https://wakatime.com/badge/user/0fde923d-171b-455e-834d-968aa05c3323.svg" alt="Total time coded" />
   </a>
 </p>
 
