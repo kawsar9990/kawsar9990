@@ -127,11 +127,8 @@
 
 
 
-
  <p align="left">Github Stats </p> 
  
----
-
  <p align="center">
   
   ![Kawsar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsar9990&show_icons=true&theme=dark)
