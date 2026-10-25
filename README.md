@@ -3,6 +3,37 @@
 </p>
 
 
+
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=kawsar9990&style=flat-square&color=007ec6" alt="Profile Views" />
+  
+ 
+  <a href="https://github.com/kawsar9990?tab=followers">
+    <img src="https://img.shields.io/badge/GitHub-Followers-100000?style=flat-square&logo=github&labelColor=333333&color=007ec6" alt="Followers" />
+  </a>
+
+
+  <a href="https://github.com/kawsar9990?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Stars-100000?style=flat-square&logo=github&labelColor=333333&color=007ec6" alt="Stars" />
+  </a>
+</p>
+
+<p align="center">
+ 
+  <a href="https://wakatime.com/@kawsar9990">
+    <img src="https://img.shields.io/badge/wakatime-coding-blue?style=flat-square&logo=wakatime&labelColor=333333&color=007ec6" alt="Wakatime" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
