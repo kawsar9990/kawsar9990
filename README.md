@@ -26,7 +26,19 @@
 </p>
 
 
+<br>
+<br>
 
+
+
+* ✉️ **Mail:** [mdkawsar132500@gmail.com](mailto:mdkawsar132500@gmail.com)
+* 🌐 **Portfolio:** [https://kawsar9990.netlify.app](https://kawsar9990.netlify.app)
+* ⚡ **Fun fact:** Actually, nothing. Just boring
+
+
+<br>
+<br>
+<br>
 
 
 
